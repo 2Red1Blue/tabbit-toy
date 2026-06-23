@@ -196,3 +196,7 @@ premium 模型(Claude/GPT/Gemini)需要 Pro 会员:在 Tabbit 浏览器设置里
 - ⚠️ Cookie 等同账号控制权,`.env` 已加入 `.gitignore`,切勿提交到 git
 - ⚠️ 仅供个人学习研究,不要商用、高并发滥用、二次分发账号
 - 本项目基于逆向分析,Tabbit 更新后协议可能变化,需要重新适配
+
+## Links
+
+- [Linux Do](https://linux.do/)
